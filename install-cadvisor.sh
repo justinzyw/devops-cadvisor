@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#这个不再用了，并入到grafana.sh里面了
 # Fetch the variables
 . parm.txt
 
